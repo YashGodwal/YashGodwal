@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Projects
-- 📫 Reach me throgh my gmail
+- 📫 Reach me throgh my gmail(yashgodwal@gmail.com)
 
 <!---
 YashGodwal/YashGodwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
